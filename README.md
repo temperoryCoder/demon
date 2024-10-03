@@ -36,7 +36,7 @@ Fork the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/demon.git
+git clone https://github.com/temperoryCoder/demon.git
 cd demon
 Create a New Branch:
 
