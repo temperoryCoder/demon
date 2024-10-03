@@ -25,7 +25,7 @@ Fork the repository: Click the "Fork" button at the top right corner of this pag
 Clone your fork:
 bash
 Copy code
-git clone https://github.com/your-username/demon.git
+git clone https://github.com/temperoryCoder/demon.git
 Create a new branch:
 bash
 Copy code
